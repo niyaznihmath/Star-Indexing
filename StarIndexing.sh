@@ -4,7 +4,7 @@
 #SBATCH -p core
 #SBATCH -n 4
 #SBATCH -t 10:00:00
-#SBATCH -J trim-galore-check
+#SBATCH -J Star-Indexing
 #SBATCH -o /proj/b2014097/nobackup/Niyaz/logs/star-index.out
 #SBATCH -e /proj/b2014097/nobackup/Niyaz/logs/star-index.err
 
